@@ -2,7 +2,7 @@
 #table definitions from setup
 db_name = "geospatial_tomasz"
 cell_tower_table = "cell_tower_geojson"
-area_codes_table = "area_codes" dfa
+area_codes_table = "area_codes" 
 phone_numbers_table = "phone_numbers"
 
 #historical tables
